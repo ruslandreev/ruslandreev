@@ -2,7 +2,7 @@
 
 # Привет! Я Руслан 👋
 
-<!-- Кнопка Telegram (замените ВАШ_TELEGRAM_LOGIN) -->
+<!-- Кнопка Telegram (Укажите ваш ник вместо ВАШ_ЛОГИН_В_ТЕЛЕГРАМ) -->
 <a href="https://t.me" target="_blank">
   <img src="https://shields.io" alt="Telegram Direct"/>
 </a>
@@ -10,8 +10,8 @@
 <br/>
 <br/>
 
-<!-- Баннер из локальной папки вашего репозитория -->
-<img src=".github/banner/world.jpg" alt="World Banner" width="100%" />
+<!-- Баннер из папки вашего репозитория по прямому абсолютному URL -->
+<img src="https://githubusercontent.com" alt="World Banner" width="100%" />
 
 </div>
 
@@ -21,11 +21,11 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <!-- Top Languages Card -->
+        <!-- Карточка используемых языков -->
         <img src="https://vercel.app" alt="Top Languages" height="180px" />
       </td>
       <td width="50%" align="center">
-        <!-- GitHub Readme Stats -->
+        <!-- Общая статистика аккаунта -->
         <img src="https://vercel.app" alt="GitHub Stats" height="180px" />
       </td>
     </tr>
@@ -35,7 +35,7 @@
 <br/>
 <hr/>
 
-<!-- Гирлянда-змейка, генерируемая файлом star.yml -->
+<!-- Динамическая гирлянда-змейка, генерируемая экшеном -->
 <div align="center">
   <h2>Contributions Garland</h2>
   <img src="https://githubusercontent.com" alt="Garland Snake" />
