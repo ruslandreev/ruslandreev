@@ -31,3 +31,11 @@
     <img src="https://cdn.simpleicons.org/googlegemini/8E75FF" alt="Google Gemini" height="48" />
   </a>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruslandreev/ruslandreev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruslandreev/ruslandreev/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ruslandreev/ruslandreev/output/github-snake.svg" />
+  </picture>
+</p>
