@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='900'%20height='20'%3E%3Cline%20x1='0'%20y1='10'%20x2='900'%20y2='10'%20stroke='white'%20stroke-width='3'%20stroke-dasharray='4%206%208%206%2012%206%2016%206%2020%206%2025%206%2030%206%2035'%20stroke-linecap='round'%20opacity='0.9'/%3E%3C/svg%3E" alt="" />
+  <img src=".github/banner/divider.svg" alt="" width="900" />
 </p>
