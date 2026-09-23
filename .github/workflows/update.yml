@@ -2,18 +2,21 @@ name: Update Org Stats Image
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '0 */2 * * *' 
   workflow_dispatch:
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    
     permissions:
       contents: write
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        persist-credentials: true
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -33,4 +36,10 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@://github.com"
         git add org_stats.svg
-        git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update organization stats image" && git push)
+        # Проверяем, изменилось ли что-то, и пушим
+        if ! git diff --staged --quiet; then
+          git commit -m "chore: update organization stats image"
+          git push origin main
+        else
+          echo "Изменений нет, пуш не требуется"
+        fi
