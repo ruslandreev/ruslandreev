@@ -1,3 +1,3 @@
 ## Привет!👋
 
-**CEO Datekt*
+**CEO Datekt**
