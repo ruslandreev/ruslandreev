@@ -17,3 +17,17 @@
 <p align="center">
   <img src=".github/banner/divider.svg" alt="" width="900" />
 </p>
+
+<p align="center">
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://deepseek.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/deepseek/5786FE" alt="DeepSeek" height="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://gemini.google.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlegemini/8E75FF" alt="Google Gemini" height="48" />
+  </a>
+</p>
