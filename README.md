@@ -5,7 +5,7 @@
 <h1 align="center">Hello, im CEO, Bitch</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=67d934&center=true&vCenter=true&width=300&lines=Datekt" alt="Datekt" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&color=6b21a8&center=true&vCenter=true&width=300&lines=Datekt" alt="JOCRAY" />
 </p>
 
 <p align="center">
